@@ -31,7 +31,7 @@ main {
   color: black;
 }
 
-.footer-not-fixed {
+footer {
   left: 0;
   bottom: 0;
   width: 100%;
