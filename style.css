@@ -22,8 +22,6 @@ main {
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #020831;
-  color: white;
 }
 
 main.no-max-width {
