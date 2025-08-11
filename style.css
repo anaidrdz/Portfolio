@@ -30,7 +30,7 @@ footer {
   color: black;
 }
 
-.footer-home {
+body.home footer {
   position: fixed;
   left: 0;
   bottom: 0;
