@@ -19,10 +19,10 @@ main {
 }
 
 iframe.resume-viewer {
-  width: min(90%, 1000px);
+  width: 100%;
   height: 90vh;
   display: block;
-  margin: 0 auto;
+  margin: 0;
   border: none;
 }
 
