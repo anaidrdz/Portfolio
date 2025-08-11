@@ -3,6 +3,8 @@ html, body {
   margin: 0;
   display: flex;
   flex-direction: column;
+  background-color: #eef2f3
+  color: #333
 
 }
 
