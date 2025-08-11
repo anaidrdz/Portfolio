@@ -39,7 +39,7 @@ footer {
   text-align: center;
   padding: 10px;
   background-color: #eef2f3;
-  color: black;
+  color: #333;
 }
 
 body.home footer {
@@ -52,7 +52,7 @@ body.home footer {
   text-align: center;
   padding: 10px;
   background-color: #eef2f3;
-  color: black;
+  color: #333;
 }
 
 nav {
