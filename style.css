@@ -3,11 +3,13 @@ html, body {
   margin: 0;
   display: flex;
   flex-direction: column;
+  background-color: #020831;
+  color: white;
 }
 
 header {
-  background: #eef2f3;
-  color: #333;
+  background: #333;
+  color: #eef2f3;
   padding: 25px 20px;
   min-height: 40px;
   align-items: center;
@@ -19,8 +21,6 @@ main {
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #333
-  color: #eef2f3
 }
 
 main.no-max-width {
@@ -43,8 +43,8 @@ footer {
   z-index: 500;
   text-align: center;
   padding: 10px;
-  background-color: #eef2f3;
-  color: #333;
+  background-color: #333;
+  color: #eef2f3;
 }
 
 body.home footer {
@@ -56,8 +56,8 @@ body.home footer {
   z-index: 500;
   text-align: center;
   padding: 10px;
-  background-color: #eef2f3;
-  color: #333;
+  background-color: #333;
+  color: #eef2f3;
 }
 
 nav {
