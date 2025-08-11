@@ -18,10 +18,11 @@ main {
   padding: 20px;
 }
 
-iframe.resume-viewer,
-embed.resume-viewer {
-  width: 100%;
-  heigh: 90vh;
+iframe.resume-viewer {
+  width: min(90%, 1000px);
+  height: 90vh;
+  display: block;
+  margin: 0 auto;
   border: none;
 }
 
