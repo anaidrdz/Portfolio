@@ -18,7 +18,20 @@ main {
   padding: 20px;
 }
 
-footer {
+.footer-home {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: 500;
+  text-align: center;
+  padding: 10px;
+  background-color: #eef2f3;
+  color: black;
+}
+
+.footer-fixed {
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
