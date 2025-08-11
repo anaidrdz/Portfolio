@@ -18,8 +18,7 @@ main {
   padding: 20px;
 }
 
-.footer-home {
-  position: fixed;
+footer {
   left: 0;
   bottom: 0;
   width: 100%;
@@ -31,7 +30,8 @@ main {
   color: black;
 }
 
-footer {
+.footer-home {
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
