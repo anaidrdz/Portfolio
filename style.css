@@ -20,12 +20,6 @@ main {
 
 footer {
   position: fixed;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  height: 60px;
-  box-sizing: border-box;
-  z-index: 500;
   text-align: center;
   padding: 10px;
   background-color: #eef2f3;
