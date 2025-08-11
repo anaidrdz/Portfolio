@@ -19,6 +19,11 @@ main {
 }
 
 footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  z-index: 500;
   text-align: center;
   padding: 10px;
   background-color: #eef2f3;
