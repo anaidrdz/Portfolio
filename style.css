@@ -93,8 +93,9 @@ nav a.active {
 }
 
 .bubble-container {
- 
-  bottom: 190px;
+  position: fixed;
+  bottom: 200px;
+  top: 200px;
   right: 20px;
   display: flex;
   flex-direction: column;
