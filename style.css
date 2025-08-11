@@ -11,12 +11,6 @@ header {
   padding: 25px 20px;
 }
 
-.site-name {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
-  color: #222;
-}
-
 main {
   flex: 1;
   max-width: 1200px;
