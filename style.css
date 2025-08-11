@@ -20,7 +20,6 @@ main {
 
 main.no-max-width {
   max-width: none !important;
-  width: 100%;
 }
 
 iframe.resume-viewer {
