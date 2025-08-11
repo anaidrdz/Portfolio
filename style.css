@@ -18,6 +18,13 @@ main {
   padding: 20px;
 }
 
+iframe.resume-viewer,
+embed.resume-viewer {
+  width: 100%;
+  heigh: 90vh;
+  border: none;
+}
+
 footer {
   left: 0;
   bottom: 0;
